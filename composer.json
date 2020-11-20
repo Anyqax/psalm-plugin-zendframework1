@@ -1,5 +1,5 @@
 {
-    "name": "matthewbdaly/psalm-plugin-zendframework1",
+    "name": "anyqax/psalm-plugin-zendframework1",
     "description": "Psalm plugin for Zend Framework 1",
     "type": "psalm-plugin",
     "license": "MIT",
